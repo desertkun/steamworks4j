@@ -4,18 +4,18 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.code-disaster.steamworks4j</groupId>
-	<artifactId>steamworks4j</artifactId>
-	<version>1.7.1-SNAPSHOT</version>
+	<groupId>com.github.desertkun</groupId>
+	<artifactId>steamworks4r</artifactId>
+	<version>1.7.2-ru</version>
 
 	<packaging>jar</packaging>
 
 	<name>Steam API Java Wrapper</name>
 	<description>Java wrapper to access the Steamworks API.</description>
-	<url>http://github.com/code-disaster/steamworks4j</url>
+	<url>http://github.com/code-disaster/steamworks4r</url>
 
 	<issueManagement>
-		<url>http://github.com/code-disaster/steamworks4j/issues</url>
+		<url>http://github.com/code-disaster/steamworks4r/issues</url>
 	</issueManagement>
 
 	<licenses>
@@ -34,9 +34,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:https://github.com/code-disaster/steamworks4j.git</connection>
-		<developerConnection>scm:git:https://github.com/code-disaster/steamworks4j.git</developerConnection>
-		<url>http://github.com/code-disaster/steamworks4j</url>
+		<connection>scm:git:https://github.com/code-disaster/steamworks4r.git</connection>
+		<developerConnection>scm:git:https://github.com/code-disaster/steamworks4r.git</developerConnection>
+		<url>http://github.com/code-disaster/steamworks4r</url>
 	</scm>
 
 	<profiles>

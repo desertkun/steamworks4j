@@ -4,9 +4,9 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.code-disaster.steamworks4j</groupId>
-	<artifactId>steamworks4j-parent</artifactId>
-	<version>1.7.1-SNAPSHOT</version>
+	<groupId>com.github.desertkun</groupId>
+	<artifactId>steamworks4r-parent</artifactId>
+	<version>1.7.2-ru</version>
 
 	<packaging>pom</packaging>
 

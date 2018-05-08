@@ -5,13 +5,13 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.code-disaster.steamworks4j</groupId>
-		<artifactId>steamworks4j-parent</artifactId>
-		<version>1.7.1-SNAPSHOT</version>
+		<groupId>com.github.desertkun</groupId>
+		<artifactId>steamworks4r-parent</artifactId>
+		<version>1.7.2-ru</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<artifactId>steamworks4j-jnigen</artifactId>
+	<artifactId>steamworks4r-jnigen</artifactId>
 	<packaging>jar</packaging>
 
 	<name>Steam API Java Wrapper - JNI code generator</name>
@@ -28,14 +28,14 @@
 			<version>1.9.0</version>
 		</dependency>
 		<dependency>
-			<groupId>com.code-disaster.steamworks4j</groupId>
-			<artifactId>steamworks4j</artifactId>
-			<version>1.7.1-SNAPSHOT</version>
+			<groupId>com.github.desertkun</groupId>
+			<artifactId>steamworks4r</artifactId>
+			<version>1.7.2-ru</version>
 		</dependency>
 		<dependency>
-			<groupId>com.code-disaster.steamworks4j</groupId>
-			<artifactId>steamworks4j-server</artifactId>
-			<version>1.7.1-SNAPSHOT</version>
+			<groupId>com.github.desertkun</groupId>
+			<artifactId>steamworks4r-server</artifactId>
+			<version>1.7.2-ru</version>
 		</dependency>
 	</dependencies>
 
